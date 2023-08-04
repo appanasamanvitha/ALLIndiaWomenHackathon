@@ -12,10 +12,16 @@ ________________________________________________________________________________
 Steps we followed to successfully build the SALINE DETECTING SENSOR
 
 1.Select the Sensor : We Choose a suitable sensor for detecting the liquid level in the saline bottle. 
+
 2.Circuit Design : Design a circuit to interface the selected sensor with a microcontroller (ie., Arduino) or a dedicated sensor module.
+
 3.Calibration: Calibrate the sensor to determine the reference points for the empty and full levels of the saline bottle. This step ensures accurate measurements and reliable detection.
-4.Programming: We've Writen the necessary CPP code to read data from the sensor and perform the logic to detect the saline level. 
+
+4.Programming: We've Writen the necessary CPP code to read data from the sensor and perform the logic to detect the saline level.
+
 5.Integration: Connect the sensor and microcontroller to the saline bottle or the part of the medical device where saline is stored.
+
 6.Testing and Validation: We've Test the saline detecting sensor with different saline levels to verify its accuracy and reliability. 
+
 7.Alerting Mechanism : To automate the alerting process, we had integrated a GSM module to send notifications to healthcare providers when the saline level reaches a critical point.
 
